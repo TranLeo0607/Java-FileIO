@@ -9,12 +9,11 @@ There is no external program needed in order to run these classes.
 
 ## Using The Tester
 The tester is broken into three different parts.
+
 Part A contains three different cases.
 It adds to the start, the end, and a random location within the file.
-
 Part B contains three different cases.
 It deletes from the start, the end, and a random location within the file.
-
 Part C has only one case.
 It removes a certain value from the file.
 

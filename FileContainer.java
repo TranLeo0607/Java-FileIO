@@ -1,5 +1,4 @@
 /**
- * @author Andriy
  * A very simple class that maintains information pertaining to a file container used to store some data
  *
  */

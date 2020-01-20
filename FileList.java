@@ -1,4 +1,4 @@
-//Name: Leo Tran Student ID: 215701360
+//Name: Leo Tran
 
 import java.util.Collection;
 import java.util.Iterator;
